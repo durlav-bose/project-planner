@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create",
+      "details": "Lorem Ipsam",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem Ipsam",
+      "complete": true
+    },
+    {
+      "title": "Design website",
+      "details": "Design website using vue",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
